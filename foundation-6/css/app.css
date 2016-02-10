@@ -19,4 +19,8 @@ div#yolomy {
 	font-size: 30px;
 	padding-top: 1%;
 }
-
+div#row-2 {
+	text-align: center;
+	padding-top: 16%;
+	font-family: 'Roboto Condensed', sans-serif;
+}

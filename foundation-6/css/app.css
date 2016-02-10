@@ -1,0 +1,6 @@
+div#row-one {
+	background-image: url(../img/backgrounds/hero.jpg);
+	height: 100%;
+	background-size: 100% 100%;
+	font-family: 'Roboto Condensed', sans-serif;
+}

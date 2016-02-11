@@ -46,4 +46,7 @@ fieldset#button {
 		height: 44px;
 		width: 103px;
 	}
+	fieldset#button {
+		padding-right: 38%;
+	}
 }

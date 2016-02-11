@@ -42,4 +42,8 @@ fieldset#button {
 	#arrow {
 		padding-top: 27%;
 	}
+	.button {
+		height: 44px;
+		width: 103px;
+	}
 }

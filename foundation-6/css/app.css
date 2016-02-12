@@ -49,4 +49,7 @@ fieldset#button {
 	fieldset#button {
 		padding-right: 38%;
 	}
+	#row-3 {
+		height: 20% !important;
+	}
 }

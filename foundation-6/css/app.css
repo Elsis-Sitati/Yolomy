@@ -51,6 +51,12 @@ img.thumbnail {
 div#row-5 {
 	padding-top: 3%;
 }
+div#women {
+	padding-right: 13%;
+}
+div#row-7 {
+	padding-top: 3%;
+}
 @media only screen and (max-width: 40em) {
 	div#row-2 {
 		padding-top: 44%;
@@ -86,7 +92,7 @@ div#row-5 {
 		padding-top: 2%;
 	}
 	#women {
-		padding-right: 21%;
+		padding-right: 20%;
 		padding-top: 7%;
 	}
 }

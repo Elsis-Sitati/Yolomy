@@ -1,98 +1,102 @@
 div#row-one {
-	background-image: url(../img/backgrounds/hero.jpg);
-	height: 100%;
-	background-size: 100% 100%;
-	font-family: 'Roboto Condensed', sans-serif;
-	color: aliceblue
+    background-image: url(../img/backgrounds/hero.jpg);
+    height: 100%;
+    background-size: 100% 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: aliceblue
 }
 li {
-	list-style-type: none;
-	/*	display: none;*/
-	padding-left: 16%;
-	display: inline;
-	padding-right: 5%;
+    list-style-type: none;
+    /*	display: none;*/
+    padding-left: 16%;
+    display: inline;
+    padding-right: 5%;
 }
 .small-10.large-6.columns {
-	padding-top: 3%;
+    padding-top: 3%;
 }
 #yolomy {
-	font-size: 26px;
-	padding-top: 1%;
+    font-size: 26px;
+    padding-top: 1%;
 }
 #row-2 {
-	text-align: center;
-	padding-top: 16%;
-	font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    padding-top: 16%;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 div#row-3 {
-	height: 13%;
-	padding-top: 2%;
-	background-color: #ADFF2F;
+    height: 13%;
+    padding-top: 2%;
+    background-color: #ADFF2F;
 }
 fieldset#button {
-	padding-left: 13%;
+    padding-left: 13%;
 }
 div#row-4 {
-	height: 13%;
+    height: 13%;
 }
 p {
-	padding-top: 15%;
-	padding-left: 35%;
-	font-size: 22px;
+    padding-top: 15%;
+    padding-left: 35%;
+    font-size: 22px;
 }
 hr {
-	padding-top: 2%;
-	border-width: 4px;
+    padding-top: 2%;
+    border-width: 4px;
 }
 img.thumbnail {
-	height: 16em;
-	width: 16em;
+    height: 16em;
+    width: 16em;
 }
 div#row-5 {
-	padding-top: 3%;
+    padding-top: 3%;
 }
 div#women {
-	padding-right: 13%;
+    padding-right: 13%;
 }
 div#row-7 {
-	padding-top: 3%;
+    padding-top: 3%;
+}
+div#row-8 {
+    height: 45%;
+    background-image: url(../img/backgrounds/about.jpg);
 }
 @media only screen and (max-width: 40em) {
-	div#row-2 {
-		padding-top: 44%;
-	}
-	li {
-		padding-right: 0%
-	}
-	#arrow {
-		padding-top: 27%;
-	}
-	.button {
-		height: 44px;
-		width: 103px;
-	}
-	fieldset#button {
-		padding-left: 32%;
-		padding-top: 4%;
-	}
-	div#row-3 {
-		height: 19%;
-	}
-	p {
-		padding-top: 58%;
-		font-size: 18px
-	}
-	hr {
-		padding-top: 7%;
-	}
-	.column {
-		padding-left: 17%;
-	}
-	div#line2 {
-		padding-top: 2%;
-	}
-	#women {
-		padding-right: 20%;
-		padding-top: 4%;
-	}
+    div#row-2 {
+        padding-top: 44%;
+    }
+    li {
+        padding-right: 0%
+    }
+    #arrow {
+        padding-top: 27%;
+    }
+    .button {
+        height: 44px;
+        width: 103px;
+    }
+    fieldset#button {
+        padding-left: 32%;
+        padding-top: 4%;
+    }
+    div#row-3 {
+        height: 19%;
+    }
+    p {
+        padding-top: 58%;
+        font-size: 18px
+    }
+    hr {
+        padding-top: 7%;
+    }
+    .column {
+        padding-left: 17%;
+    }
+    div#line2 {
+        padding-top: 2%;
+    }
+    #women {
+        padding-right: 20%;
+        padding-top: 4%;
+    }
 }

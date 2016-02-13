@@ -75,7 +75,7 @@ div#about {
     border-style: solid;
 }
 div#row-10 {
-    height: 45%;
+    height: 36%;
     color: white;
     background-color: black;
 }
@@ -97,6 +97,12 @@ li {
 div#footer-list {
     padding-top: 6%;
     text-align: center;
+}
+div#row-11 {
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    background-color: black;
 }
 @media only screen and (max-width: 40em) {
     div#row-2 {

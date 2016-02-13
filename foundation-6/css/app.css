@@ -58,7 +58,7 @@ div#row-7 {
     padding-top: 3%;
 }
 div#row-8 {
-    height: 45%;
+    height: 53%;
     background-image: url(../img/backgrounds/about.jpg);
     background-size: cover;
 }
@@ -70,6 +70,9 @@ div#row-9 {
     padding-left: 24%;
     text-align: center;
     color: white;
+}
+div#about {
+    border-style: solid;
 }
 @media only screen and (max-width: 40em) {
     div#row-2 {

@@ -74,6 +74,11 @@ div#row-9 {
 div#about {
     border-style: solid;
 }
+div#row-10 {
+    height: 40%;
+    color: white;
+    background-color: black;
+}
 @media only screen and (max-width: 40em) {
     div#row-2 {
         padding-top: 44%;

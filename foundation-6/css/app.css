@@ -112,4 +112,10 @@ div#about {
         padding-right: 20%;
         padding-top: 4%;
     }
+    div#about {
+        width: 115%
+    }
+    div#row-8 {
+        padding-right: 14%;
+    }
 }
